@@ -57,3 +57,7 @@ Show the application running in the EC2 terminal and browser.
 | <img src="./aws-running.jpg"> |
 |:-----------------------------:|
 |      __Service Running__      | 
+
+| <img src="./security-rules.jpg"> |
+|:-----------------------------:|
+|      __Security Rules__      | 
